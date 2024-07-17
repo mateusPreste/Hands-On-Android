@@ -4,11 +4,17 @@ Bem-vindo ao repositório da Equipe 01 do HandsON de Android do DevTITANS!
 
 ## Contribuidores
 
-<div>
-<img src="" width="180" >
-</div>
 
 
+- **Alison Silva** 
 - **Cícero Higor** 
 - **Enzo Henrique** 
-- **Laura Neves** 
+- **Laura Neves**
+- **Matheus Mendonca**
+
+# Link Dos Wikis:
+### [Wikis](https://github.com/ChigorGomes/Hands-On-Android/wiki)
+
+
+# Obrigado !!
+  
